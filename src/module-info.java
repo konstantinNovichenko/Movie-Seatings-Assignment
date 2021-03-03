@@ -1,0 +1,3 @@
+module movieTheaterSeating {
+	exports movieTheaterSeating;
+}
